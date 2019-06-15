@@ -1,5 +1,5 @@
 ---
-title: "Automatisation d'un site E-commerce avec Selenium"
+title: "Automatisation d'un site E-commerce avec Selenium et Python"
 layout: post
 tag:
 - selenium
