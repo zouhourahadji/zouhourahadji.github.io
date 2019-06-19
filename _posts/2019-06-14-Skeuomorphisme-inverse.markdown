@@ -14,9 +14,6 @@ author: zouhoura
 
 ---
 
-## Expérience :
-
-
  Nous avons (presque) tous images en tête des débuts d'Internet où les icônes et les divers autres éléments d'interfaces graphiques imitent les objets du monde physique.
 
  Si rien ne vous vient à l'esprit,  quantités de [réalisations skeuomorphiques](https://theultralinx.com/2013/01/20-brilliant-examples-of-skeuomorphic-ui-design/) sont visibles sur le net.
@@ -25,6 +22,7 @@ Un néologisme est apparu pour désigner ce mode de représentation : le skeumor
 
 
 Je me suis demandé  s'il existait un terme pour designer un **skeuomorphe en inversé**, c'est-à-dire un terme pour décrire des artéfacts qui reprendraient les codes et les comportements propres au monde virtuel pour les appliquer au monde physique.
+
 
 Cette question m'est venu lors d'une expérience personnelle des plus banales et des plus triviales qui soit.
 
@@ -59,7 +57,7 @@ En plus de m'être énervée je me suis sentie mal à l'aise. Pendant quelques s
 
 La 'bonne chose' à faire, le bon geste était de passer la main devant le système de façon à débloquer la porte via un détecteur de mouvement. Ce principe de survol n'est pas sans rappeler celui du sélecteur 'hover' , si ce n'est pas un emprunt, ça y ressemble de très près.
 
-Un emprunt assez maladroit selon moi et qui n'est pas sans rappeler les premiers skeuomorphes qui calquaient une réalité vers une autre, mais qui faisait toujours sens à l'époque.
+Un emprunt assez maladroit selon moi et qui n'est pas sans rappeler les premiers skeuomorphes qui calquaient une réalité vers une autre, mais qui faisait sens à l'époque.
 
 Par ce petit objet, il y a peut-être une tentative très timide (et bon marché) de donner une touche 'numérique' et moderne à un habitat collectif.
 
