@@ -11,7 +11,7 @@ tag:
 
 category: blog
 author: zouhoura
-description: Simple buttons
+
 ---
 
 ## Expérience :
@@ -39,7 +39,7 @@ L'objet en question se compose  :
 
 - d'une seconde partie rectangulaire en plastique noir.
 
-- au centre d'un bouton poussoir sur lequel est inscrit les mots 'NO TOUCH'
+- au centre d'un bouton poussoir sur lequel est inscrit les mots "Don't Touch"
 
 - un halo de couleur bleu-violet. Il entoure littéralement le centre du bouton . Ce cercle lumineux devient rouge lorsque la porte s'ouvre.
 
@@ -61,7 +61,7 @@ La 'bonne chose' à faire, le bon geste était de passer la main devant le syst�
 
 Un emprunt assez maladroit selon moi et qui n'est pas sans rappeler les premiers skeuomorphes qui calquaient une réalité vers une autre, mais qui faisait toujours sens à l'époque.
 
-Par ce petit objet, il y a peut-être une tentative très timide (et bon marché) de donner une touche 'numérique' et moderne à un habitat collectif. 
+Par ce petit objet, il y a peut-être une tentative très timide (et bon marché) de donner une touche 'numérique' et moderne à un habitat collectif.
 
 
 Crédit photos :
