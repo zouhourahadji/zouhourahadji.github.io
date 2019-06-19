@@ -39,7 +39,7 @@ L'objet en question se compose  :
 
 - d'une seconde partie rectangulaire en plastique noir.
 
-- au centre d'un bouton poussoir sur lequel est inscrit les mots "Don't Touch"
+- au centre d'un bouton poussoir sur lequel est inscrit les mots "Don't Touch".
 
 - un halo de couleur bleu-violet. Il entoure littéralement le centre du bouton . Ce cercle lumineux devient rouge lorsque la porte s'ouvre.
 
