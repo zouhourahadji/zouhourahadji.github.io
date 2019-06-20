@@ -1,5 +1,5 @@
 ---
-title: "Skeuomorphisme inversé ?"
+title: "Skeuomorphisme en inversé ?"
 layout: post
 image: /assets/images/snail.jpg
 headerImage: true
@@ -14,11 +14,11 @@ author: zouhoura
 
 ---
 
- Nous avons (presque) tous images en tête des débuts d'Internet où les icônes et les divers autres éléments d'interfaces graphiques imitent les objets du monde physique.
+ Nous avons (presque) tous en tête des images des débuts d'Internet où les icônes et   autres éléments d'interfaces graphiques imitaient les objets du monde physique.
+
+ Un néologisme est apparu pour désigner ce mode de représentation : le skeumorphisme du grec **'skeuos'** ornement, décoration et **'morphé'** forme.
 
  Si rien ne vous vient à l'esprit,  quantités de [réalisations skeuomorphiques](https://theultralinx.com/2013/01/20-brilliant-examples-of-skeuomorphic-ui-design/) sont visibles sur le net.
-
-Un néologisme est apparu pour désigner ce mode de représentation : le skeumorphisme du grec **'skeuos'** ornement, décoration et **'morphé'** forme.
 
 
 Je me suis demandé  s'il existait un terme pour designer un **skeuomorphe en inversé**, c'est-à-dire un terme pour décrire des artéfacts qui reprendraient les codes et les comportements propres au monde virtuel pour les appliquer au monde physique.
@@ -37,23 +37,23 @@ L'objet en question se compose  :
 
 - d'une seconde partie rectangulaire en plastique noir.
 
-- au centre d'un bouton poussoir sur lequel est inscrit les mots "Don't Touch".
+- au centre d'un bouton poussoir sur lequel est inscrit les mots "No Touch".
 
 - un halo de couleur bleu-violet. Il entoure littéralement le centre du bouton . Ce cercle lumineux devient rouge lorsque la porte s'ouvre.
 
 Un objet d'une grande banalité.
 
-La première fois que j'ai essayé de sortir, ce mécanisme m'a mis littéralement hors de moi.
+La première fois que j'ai essayé de sortir, ce mécanisme m'a mis littéralement hors de moi :
 
-- Quand je sors d'un immeuble, je m'attends à devoir appuyer sur un bouton de sortie. Sur ma droite, en descendant de l'escalier, je vois un objet qui a toutes les caractéristiques d'un bouton. Une belle forme ronde, du volume et un superbe disque coloré qui indique à mon mental 'ceci est un bouton pressoir, appuies'.
-Sauf que ce n'est pas sa fonction  : "Don't Touch" est écrit dessus, de façon presque autoritaire.
+- Quand je sors d'un immeuble, je m'attends à devoir appuyer sur un bouton de sortie. Sur ma droite, en descendant de l'escalier, je vois cet objet qui a toutes les caractéristiques d'un bouton. Une belle forme ronde, du volume et un superbe disque coloré qui indique à mon mental 'ceci est un bouton poussoir, appuies'.
+Sauf que ce n'est pas sa fonction  : "No Touch" est écrit dessus, de façon presque autoritaire.
 
 - Le code couleur utilisé. L'usage aurait été d'utiliser le vert pour indiquer la sortie, mais je dirai que ce n'est pas ce qui a retenu mon attention en premier lieu et qui m'a le plus embêté.
 
 
-- Ce qui m'a agacé le plus, c'est que le dispositif indique ce qu'il m'est interdit de faire mais ne me dis pas ce que je suis sensée faire pour faire ce pour quoi je souhaite l'utiliser.
+- Ce qui m'a agacé le plus, c'est que le dispositif indique ce qu'il m'est interdit de faire mais ne me dit pas ce que je suis censée faire pour faire ce pour quoi je souhaite l'utiliser.
 
-En plus de m'être énervée je me suis sentie mal à l'aise. Pendant quelques secondes, je me suis sentie stupide et un peu claustrophobe 😁.
+En plus de m'être énervée je me suis sentie mal à l'aise. Pendant quelques secondes, je me suis sentie stupide...et un peu claustrophobe 😁.
 
 La 'bonne chose' à faire, le bon geste était de passer la main devant le système de façon à débloquer la porte via un détecteur de mouvement. Ce principe de survol n'est pas sans rappeler celui du sélecteur 'hover' , si ce n'est pas un emprunt, ça y ressemble de très près.
 
