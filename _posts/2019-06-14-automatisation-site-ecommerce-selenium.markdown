@@ -6,11 +6,11 @@ tag:
 - python
 - e-commerce
 - automatisation
-#image: /assets/images/tea.jpg
+image: /assets/images/tea.jpg
 #headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-category: project
+category: blog
 
 externalLink: false
 ---

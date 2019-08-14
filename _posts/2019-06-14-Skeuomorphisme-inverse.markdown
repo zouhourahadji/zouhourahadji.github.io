@@ -5,7 +5,7 @@ image: /assets/images/snail.jpg
 headerImage: true
 tag:
 - UX
-- buttons
+- bouton
 - design
 - skeuomorphisme
 
