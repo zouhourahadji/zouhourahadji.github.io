@@ -20,7 +20,7 @@ Hello, I’m Zouhoura (pronounce Zu-ra)
 During the last 8 years, I had the opportunity to work in several structures in France as a digital project manager. I was in charge of organizing, planning, coordinating events, training, applications or services for customers.
 
 Now, I live in Canada. During my office hours, I work as a communication and marketing officer.
-During my spare time, I write, create data vizualisations and work on UX design projects.
+During my spare time, I write, create data vizualisation and work on UX design projects.
 
 This personal website is a way to show my skills and share ideas about my favorite topics.
 
